@@ -14,6 +14,10 @@ public class Main2 {
         for (int q : a) {
             System.out.print(q);
             System.out.println(q);
+            System.out.println(q);
+            System.out.println(q);
+            System.out.println(q);
+            System.out.println(q);
 
         }
     }
