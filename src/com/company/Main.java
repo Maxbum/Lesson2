@@ -20,7 +20,7 @@ public class Main {
         else System.out.println("Пароль не верный");
     }
 
- /*   public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите последовательность цыфр: ");
         int value = scanner.nextInt();
@@ -30,7 +30,7 @@ public class Main {
             value = value / 10;
         }
         System.out.print("Обраная последовательность цыфр: " + mirror);
-    }*/
+    }
 
  }
 
